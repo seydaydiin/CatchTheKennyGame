@@ -13,6 +13,7 @@
 		C480BCF32A2BA26500161E17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C480BCF12A2BA26500161E17 /* Main.storyboard */; };
 		C480BCF52A2BA26700161E17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C480BCF42A2BA26700161E17 /* Assets.xcassets */; };
 		C480BCF82A2BA26700161E17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C480BCF62A2BA26700161E17 /* LaunchScreen.storyboard */; };
+		C480BD002A2BA65A00161E17 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C480BCFF2A2BA65A00161E17 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C480BCF42A2BA26700161E17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C480BCF72A2BA26700161E17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C480BCF92A2BA26700161E17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C480BCFF2A2BA65A00161E17 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				C480BCEB2A2BA26500161E17 /* AppDelegate.swift */,
 				C480BCED2A2BA26500161E17 /* SceneDelegate.swift */,
+				C480BCFF2A2BA65A00161E17 /* SecondViewController.swift */,
 				C480BCEF2A2BA26500161E17 /* ViewController.swift */,
 				C480BCF12A2BA26500161E17 /* Main.storyboard */,
 				C480BCF42A2BA26700161E17 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C480BD002A2BA65A00161E17 /* SecondViewController.swift in Sources */,
 				C480BCF02A2BA26500161E17 /* ViewController.swift in Sources */,
 				C480BCEC2A2BA26500161E17 /* AppDelegate.swift in Sources */,
 				C480BCEE2A2BA26500161E17 /* SceneDelegate.swift in Sources */,
